@@ -1,6 +1,7 @@
 # URL-MyEvents
 
-URL:
+URL Servidor:
+
 http://myeventsapp.myeventsapp2018.com/MyEvents/index.xhtml
 
 # Video-MyEvents
